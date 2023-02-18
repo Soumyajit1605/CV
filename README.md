@@ -1,2 +1,2 @@
 # CV
-This is the CV pf Soumyajit Das
+This is the CV of Soumyajit Das
